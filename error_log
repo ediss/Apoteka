@@ -1,0 +1,5 @@
+[16-May-2018 08:40:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'kolicina_stanje' cannot be null' in /home/swissme2/apoteka.swissmedicacrm.com/fontawesome.php:244
+Stack trace:
+#0 /home/swissme2/apoteka.swissmedicacrm.com/fontawesome.php(244): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/swissme2/apoteka.swissmedicacrm.com/fontawesome.php on line 244
